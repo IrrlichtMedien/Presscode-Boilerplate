@@ -1,0 +1,33 @@
+/* TEAM */
+
+                            
+Your title: Developer / Designer
+Site: marcleyendecker.com
+E-Mail: mail [at] marcleyendecker.com
+Twitter: @marcleyendecker
+Location: Jockgrim, Germany
+
+						
+							
+/* THANKS */
+HTML5 Boilerplate: http://html5boilerplate.com
+by Paul Irish and Divya Manian
+
+BaselineCSS: http://baselinecss.com/typography.html
+by Stéphane Curzi
+
+Humans.txt: http://humanstxt.org/
+by Juanjo Bernabeu         
+
+Tiny Grid Background Image: http://subtlepatterns.com/tiny-grid/
+by Atle Mo     
+
+SourceSans Pro Font: http://blogs.adobe.com/typblography/2012/08/source-sans-pro.html
+by Adobe Systems Incorporated          
+
+                            
+/* SITE */                         
+Last update: 2012/08/07                        
+Standards: HTML5, CSS3, LessCSS                        
+Components: Modernizr, jQuery, Plugin.js, Script.js                      
+Software: Coda2, CodeKit, iA Writer, OSX Mountain Lion
